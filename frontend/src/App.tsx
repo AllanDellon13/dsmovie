@@ -1,7 +1,9 @@
+import Navbar from "./components/Navbar";
 
+//chamando a função que foi criada na index.tsx
 function App() {
   return (
-    <h1>Página principal</h1>
+    <Navbar />
   );
 }
 
